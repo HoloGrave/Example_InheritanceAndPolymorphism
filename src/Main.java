@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
 
@@ -20,7 +18,11 @@ public class Main {
             Assign vulnerabilities to each monster - DONE
 
         Create test class to run and demonstrate the classes we have created - DONE
-        Create Javadoc for everything and how it works
+            Demonstrate variables - DONE
+                health - DONE
+                name - DONE
+                vulnerabilities - DONE
+        Create Javadoc for everything and how it works - DONE
          -------------------------------------*/
 
         //Start example application
